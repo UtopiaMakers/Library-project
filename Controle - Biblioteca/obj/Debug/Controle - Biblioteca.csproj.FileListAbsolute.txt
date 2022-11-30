@@ -1,0 +1,11 @@
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\bin\Debug\Controle - Biblioteca.exe.config
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\bin\Debug\Controle - Biblioteca.exe
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\bin\Debug\Controle - Biblioteca.pdb
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle - Biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle___Biblioteca.Properties.Resources.resources
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle___Biblioteca.Dashboard.resources
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle - Biblioteca.csproj.GenerateResource.cache
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle - Biblioteca.exe
+C:\Users\50669807842\Desktop\Library-project\Controle - Biblioteca\Controle - Biblioteca\obj\Debug\Controle - Biblioteca.pdb
